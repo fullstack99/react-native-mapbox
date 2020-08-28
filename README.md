@@ -1,5 +1,8 @@
 ## Project about
 It shows how to use mapbox in react native
+
+## Technologies.
+
 I have used React Native, Redux, Redux-thunk, Mapbox.
 react-nataive: 0.51.0
 mapbox: 6.0.2
@@ -28,6 +31,5 @@ react-native run-ios
 ```
 
 ## Reference
-https://github.com/mapbox/react-native-mapbox-gl/tree/master/example
 
 ![alt text](https://github.com/blue-sky0909/react-native-mapbox/blob/master/src/assets/images/mapbox.PNG)
